@@ -160,14 +160,6 @@ Esta aplicación es ideal para:
 - 🔬 **Aficionados**: Explorar datos reales de NASA sin programación
 - 🚀 **Divulgadores**: Demostrar conceptos de forma visual
 
-### Actividades Sugeridas
-
-1. **Búsqueda del Tesoro**: Encuentra el exoplaneta más parecido a la Tierra
-2. **Detector de Habitabilidad**: Identifica candidatos en zona habitable
-3. **Análisis de Curvas**: Interpreta tránsitos planetarios
-4. **Comparación de Sistemas**: Compara diferentes sistemas estelares
-
----
 
 ## 🐛 Solución de Problemas
 
