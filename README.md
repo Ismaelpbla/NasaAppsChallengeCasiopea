@@ -123,19 +123,7 @@ Los datos provienen del **NASA Exoplanet Archive**:
 - API: TAP (Table Access Protocol)
 - Tabla: `cumulative` (Kepler Objects of Interest)
 
-### Principales Variables Utilizadas
 
-| Variable | Descripción | Unidades |
-|----------|-------------|----------|
-| `koi_period` | Período orbital | días |
-| `koi_depth` | Profundidad del tránsito | ppm |
-| `koi_duration` | Duración del tránsito | horas |
-| `koi_prad` | Radio del planeta | R⊕ |
-| `koi_teq` | Temperatura de equilibrio | K |
-| `koi_steff` | Temperatura estelar | K |
-| `koi_disposition` | Clasificación | categorical |
-
----
 
 ## 🤖 Sobre el Modelo ExoMiner
 
